@@ -1,0 +1,2 @@
+# sonimax
+Qr redes sociales
