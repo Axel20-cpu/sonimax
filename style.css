@@ -12,17 +12,15 @@
 }
 
 body {
-    font-size: 16px;
-    font-family: 'Work Sans', sans-serif;
-    height: 100vh;
-    padding: 10rem;
-    display: flex;
-    height: 100vh;
-    justify-content: center;
-    align-items: center;
-    background: linear-gradient(
-        to right, var(--green),
-        var(--black));
+   font-size: 15px;
+   font-family: 'Work Sans',  sans-serif;
+   height: 100vh;
+   padding: 10rem;
+   display: flex;
+   height: 100vh;
+   justify-content: center;
+   background-image: url(TRAMAS\ CURV2-02.jpg);
+   background-size: cover;
 }
 
 .container {
@@ -33,9 +31,9 @@ body {
     background: var(--white);
     width: 100%;
     max-width: 32rem;
-    padding: 3rem 1rem;
+    padding: 3rem 2rem;
     border-radius: 2rem;
-    height: fit-content;
+    height: max-content;
     
 }
 
