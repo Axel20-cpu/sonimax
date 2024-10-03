@@ -21,6 +21,7 @@ body {
    justify-content: center;
    background-image: url(TRAMAS\ CURV2-02.jpg);
    background-size: cover;
+   transition: background 3s ease;
 }
 
 .container {  
@@ -32,8 +33,9 @@ body {
     width: 100%;
     max-width: 26rem;
     padding: 2rem 2rem;
-    border-radius: 1rem;
+    border-radius: 0rem;
     height: max-content;
+    transition: background 3s ease;
     
 }
 
@@ -47,6 +49,7 @@ body {
 .logo {
     height: 10rem;
     margin: auto;
+    
 }
 
 h1{
@@ -67,7 +70,7 @@ h1{
     border-radius: 5px;
     font-size: 18px;
     font-weight: bold;
-    transition: background-color 0.3s ease;
+    transition: background-color 3s ease;
 }
 
 .facebook {
