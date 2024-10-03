@@ -17,22 +17,22 @@ body {
    height: 100vh;
    padding: 10rem;
    display: flex;
-   height: 100vh;
+   height: 108vh;
    justify-content: center;
    background-image: url(TRAMAS\ CURV2-02.jpg);
    background-size: cover;
 }
 
-.container {
+.container {  
     display: flex;
     flex-direction: column;
     position: relative;
     gap: 1rem;
     background: var(--white);
     width: 100%;
-    max-width: 32rem;
-    padding: 3rem 2rem;
-    border-radius: 2rem;
+    max-width: 26rem;
+    padding: 2rem 2rem;
+    border-radius: 1rem;
     height: max-content;
     
 }
