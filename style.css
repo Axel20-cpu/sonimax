@@ -1,4 +1,5 @@
 :root {
+    --grey: #d3d3d3;
     --white: #ffff;
     --green:#6bff35;
     --black: #070c05;
@@ -19,7 +20,7 @@ body {
    display: flex;
    height: 108vh;
    justify-content: center;
-   background-image: url(TRAMAS\ CURV2-02.jpg);
+   background-image: url(TRAMAS\ CURV2_Mesa\ de\ trabajo\ 1.jpg);
    background-size: cover;
    transition: background 3s ease;
 }
@@ -29,7 +30,7 @@ body {
     flex-direction: column;
     position: relative;
     gap: 1rem;
-    background: var(--white);
+    background: var(--grey);
     width: 100%;
     max-width: 26rem;
     padding: 2rem 2rem;
